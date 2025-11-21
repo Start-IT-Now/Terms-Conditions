@@ -10,7 +10,7 @@ export default function TermsAndConditions() {
       <div className="p-8 flex items-center justify-between border-b bg-white shadow-md">
           <h1
             className="text-2xl font-bold text-center mb-4"
-            style={{ color: "#fc4327f9" }}
+            style={{ color: "#277cfcf9" }}
           >
              పట్టుసాళి ఉపాది వేదిక
           </h1>
@@ -33,7 +33,7 @@ export default function TermsAndConditions() {
           {/* Telugu Heading */}
           <h1
             className="text-2xl font-bold text-center mb-4"
-            style={{ color: "#fc4327f9" }}
+            style={{ color: "#2380dcf9" }}
           >
             🎯 పట్టుసాళి ఉపాది వేదిక
           </h1>
@@ -89,7 +89,7 @@ export default function TermsAndConditions() {
           {/* Telugu Heading */}
           <h1
             className="text-2xl font-bold text-center mb-4"
-            style={{ color: "#fc4327f9" }}
+            style={{ color: "#2380dcf9" }}
           >
            🙌 పట్టుసాళి ఉపాది వేదిక – స్వచ్ఛంధ సేవకులు
           </h1>
