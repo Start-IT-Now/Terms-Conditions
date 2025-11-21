@@ -8,11 +8,12 @@ export default function TermsAndConditions() {
     <div className="relative z-10 min-h-screen flex flex-col bg-gray-100">
       {/* Header Section */}
       <div className="p-8 flex items-center justify-between border-b bg-white shadow-md">
-        <img
-          src={logo}
-          alt="Talent Sift Logo"
-          className="h-12 md:h-14"
-        />
+          <h1
+            className="text-2xl font-bold text-center mb-4"
+            style={{ color: "#fc4327f9" }}
+          >
+             పట్టుసాళి ఉపాది వేదిక
+          </h1>
         <img
           src={puv}
           alt="Pattusalli Upadi Vedika Logo"
