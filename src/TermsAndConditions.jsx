@@ -34,14 +34,14 @@ export default function TermsAndConditions() {
             className="text-2xl font-bold text-center mb-4"
             style={{ color: "#fc4327f9" }}
           >
-            పట్టుసాళి ఉపాది వేదిక
+            🎯 పట్టుసాళి ఉపాది వేదిక
           </h1>
 
           <h2
             className="text-xl font-semibold mt-2 mb-4"
             style={{ color: "#fc4327f9" }}
           >
-            Terms &amp; Conditions
+           📜 Terms &amp; Conditions
           </h2>
 
           <ol className="list-decimal pl-6 space-y-3 mt-2">
@@ -90,14 +90,14 @@ export default function TermsAndConditions() {
             className="text-2xl font-bold text-center mb-4"
             style={{ color: "#fc4327f9" }}
           >
-            పట్టుసాళి ఉపాది వేదిక – స్వచ్ఛంధ సేవకులు
+           🙌 పట్టుసాళి ఉపాది వేదిక – స్వచ్ఛంధ సేవకులు
           </h1>
 
           <h2
             className="text-xl font-semibold mt-2 mb-4"
             style={{ color: "#fc4327f9" }}
           >
-            Guidelines for Volunteers
+           🤝 Guidelines for Volunteers
           </h2>
 
           <ol className="list-decimal pl-6 space-y-3 mt-2">
